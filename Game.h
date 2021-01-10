@@ -6,8 +6,6 @@
 #include<conio.h>
 
 
-
-
 //ÐÅÏ¢UIµÄ³ß´ç
 const int INFO_UI_SIZE = 5;
 //²à±ßÀ¸
